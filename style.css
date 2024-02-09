@@ -274,6 +274,12 @@ img {
             }
         }
     }
+
+    .project,
+    .announcements,
+    .trending {
+        box-shadow: 4px 4px 10px #888;
+    }
 }
 
 .logo {
